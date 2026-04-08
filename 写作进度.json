@@ -2,39 +2,55 @@
   "novel_title": "两界之间",
   "novel_title_original": "每天偷一小时",
   "total_chapters": 300,
-  "completed_chapters": 2,
-  "current_chapter": 3,
+  "completed_chapters": 4,
+  "current_chapter": 5,
   "last_updated": "2026-04-08",
   "auto_write_enabled": true,
-  "cron_job_id": "1678d9b9-f63e-4bdc-855d-962433c960d8",
+  "cron_job_id": "dab3cfe0-1225-4fb8-8014-e73c34763ea8",
   "cron_schedule": "*/15 * * * *",
-  "last_git_push": "2026-04-08 10:00:00",
+  "last_git_push": "2026-04-08 18:30:00",
   "chapters_status": {
     "1": {
       "title": "不可能的犯罪",
       "status": "completed",
-      "word_count": 1666,
-      "file": "第一章_不可能的犯罪.md",
+      "word_count": 7800,
+      "file": "第一章_不可能的犯罪_修订版.md",
       "volume": "第一卷：觉醒",
       "completed_at": "2026-04-08"
     },
     "2": {
       "title": "灰色世界",
       "status": "completed",
-      "word_count": 5200,
-      "file": "第二章_灰色世界.md",
+      "word_count": 13970,
+      "file": "第二章_灰色世界_修订版.md",
       "volume": "第一卷：觉醒",
-      "completed_at": "2026-04-08 10:00:00"
+      "completed_at": "2026-04-08"
+    },
+    "3": {
+      "title": "第二现场",
+      "status": "completed",
+      "word_count": 6200,
+      "file": "第三章_第二现场.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
+    },
+    "4": {
+      "title": "法医的发现",
+      "status": "completed",
+      "word_count": 5800,
+      "file": "第四章_法医的发现.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
     }
   },
   "next_chapter_info": {
-    "chapter": 3,
-    "title": "第二现场",
+    "chapter": 5,
+    "title": "被唤醒的人",
     "volume": "第一卷：觉醒",
     "volume_range": "第 1-50 章",
-    "main_characters": ["林默"],
-    "core_event": "隙间内发现死者生前痕迹",
-    "suspense": "死者生前在做什么",
+    "main_characters": ["林默", "苏晴"],
+    "core_event": "苏晴也是隙间人",
+    "suspense": "谁唤醒了苏晴",
     "writing_points": {
       "scene_description": 1000,
       "dialogue": 1500,
