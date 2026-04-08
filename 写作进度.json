@@ -2,12 +2,13 @@
   "novel_title": "每天偷一小时",
   "novel_title_original": "消失的一小时",
   "total_chapters": 300,
-  "completed_chapters": 1,
-  "current_chapter": 2,
+  "completed_chapters": 2,
+  "current_chapter": 3,
   "last_updated": "2026-04-08",
   "auto_write_enabled": true,
   "cron_job_id": "1678d9b9-f63e-4bdc-855d-962433c960d8",
   "cron_schedule": "*/15 * * * *",
+  "last_git_push": "2026-04-08 10:00:00",
   "chapters_status": {
     "1": {
       "title": "不可能的犯罪",
@@ -16,16 +17,24 @@
       "file": "第一章_不可能的犯罪.md",
       "volume": "第一卷：觉醒",
       "completed_at": "2026-04-08"
+    },
+    "2": {
+      "title": "灰色世界",
+      "status": "completed",
+      "word_count": 5200,
+      "file": "第二章_灰色世界.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08 10:00:00"
     }
   },
   "next_chapter_info": {
-    "chapter": 2,
-    "title": "灰色世界",
+    "chapter": 3,
+    "title": "第二现场",
     "volume": "第一卷：觉醒",
     "volume_range": "第 1-50 章",
     "main_characters": ["林默"],
-    "core_event": "林默零点眩晕，首次进入隙间，世界变灰",
-    "suspense": "隙间里看到了什么",
+    "core_event": "隙间内发现死者生前痕迹",
+    "suspense": "死者生前在做什么",
     "writing_points": {
       "scene_description": 1000,
       "dialogue": 1500,

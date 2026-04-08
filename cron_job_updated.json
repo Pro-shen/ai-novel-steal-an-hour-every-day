@@ -1,0 +1,10 @@
+{
+  "agent_id": "default",
+  "type": "agent",
+  "name": "每天偷一小时 - 自动写作 + GitHub 推送",
+  "cron": "*/15 * * * *",
+  "channel": "feishu",
+  "target_user": "ou_2db2d9368e2502294a78b1681229c93e",
+  "target_session": "1229c93e",
+  "text": "请根据 MEMORY.md 中《每天偷一小时》大纲和写作进度.json 中的当前进度，写下一章小说内容。要求：\n1. 读取写作进度.json 确定要写第几章\n2. 根据完整大纲.md 中该章的人物、事件、悬念进行创作\n3. 写到 5000 字以上\n4. 保存为 章节文件/第 X 章_标题.md\n5. 更新写作进度.json\n6. 自动推送到 GitHub：\n   - cd /app/working/workspaces/default/novels/每天偷一小时\n   - git add .\n   - git commit -m \"第 X 章完成：章节标题\"\n   - git push\n7. 写完后告诉舰长本章完成情况和下一章预告，以及 GitHub 推送状态。"
+}
