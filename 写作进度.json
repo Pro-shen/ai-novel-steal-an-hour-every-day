@@ -2,13 +2,13 @@
   "novel_title": "两界之间",
   "novel_title_original": "每天偷一小时",
   "total_chapters": 300,
-  "completed_chapters": 6,
-  "current_chapter": 7,
+  "completed_chapters": 7,
+  "current_chapter": 8,
   "last_updated": "2026-04-08",
   "auto_write_enabled": true,
-  "cron_job_id": "dab3cfe0-1225-4fb8-8014-e73c34763ea8",
-  "cron_schedule": "*/15 * * * *",
-  "last_git_push": "2026-04-08 19:00:00",
+  "cron_job_id": "3ad0d545-07ee-4ba0-8912-486527012e17",
+  "cron_schedule": "*/8 * * * *",
+  "last_git_push": "2026-04-08 19:30:00",
   "chapters_status": {
     "1": {
       "title": "不可能的犯罪",
@@ -57,16 +57,24 @@
       "file": "第六章_十年悬案.md",
       "volume": "第一卷：觉醒",
       "completed_at": "2026-04-08"
+    },
+    "7": {
+      "title": "时盗",
+      "status": "completed",
+      "word_count": 5200,
+      "file": "第七章_时盗.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
     }
   },
   "next_chapter_info": {
-    "chapter": 7,
-    "title": "时盗",
+    "chapter": 8,
+    "title": "追踪",
     "volume": "第一卷：觉醒",
     "volume_range": "第 1-50 章",
     "main_characters": ["林默", "苏晴"],
-    "core_event": "首次听到时盗组织名字",
-    "suspense": "时盗是什么组织",
+    "core_event": "隙间内追踪嫌疑人",
+    "suspense": "嫌疑人是谁",
     "writing_points": {
       "scene_description": 1000,
       "dialogue": 1500,
