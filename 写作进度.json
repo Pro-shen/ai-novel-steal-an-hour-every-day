@@ -1,0 +1,49 @@
+{
+  "novel_title": "每天偷一小时",
+  "novel_title_original": "消失的一小时",
+  "total_chapters": 300,
+  "completed_chapters": 1,
+  "current_chapter": 2,
+  "last_updated": "2026-04-08",
+  "auto_write_enabled": true,
+  "cron_job_id": "1678d9b9-f63e-4bdc-855d-962433c960d8",
+  "cron_schedule": "*/15 * * * *",
+  "chapters_status": {
+    "1": {
+      "title": "不可能的犯罪",
+      "status": "completed",
+      "word_count": 1666,
+      "file": "第一章_不可能的犯罪.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
+    }
+  },
+  "next_chapter_info": {
+    "chapter": 2,
+    "title": "灰色世界",
+    "volume": "第一卷：觉醒",
+    "volume_range": "第 1-50 章",
+    "main_characters": ["林默"],
+    "core_event": "林默零点眩晕，首次进入隙间，世界变灰",
+    "suspense": "隙间里看到了什么",
+    "writing_points": {
+      "scene_description": 1000,
+      "dialogue": 1500,
+      "action": 1500,
+      "emotion": 500,
+      "suspense": 500,
+      "total_target": 5000
+    }
+  },
+  "chapter_outline_reference": {
+    "2": {"title": "灰色世界", "characters": "林默", "event": "首次进入隙间", "suspense": "隙间里看到了什么"},
+    "3": {"title": "第二现场", "characters": "林默", "event": "隙间内发现死者生前痕迹", "suspense": "死者生前在做什么"},
+    "4": {"title": "法医的发现", "characters": "林默、苏晴、小张", "event": "苏晴登场，尸体有异常辐射", "suspense": "苏晴为何对辐射敏感"},
+    "5": {"title": "被唤醒的人", "characters": "林默、苏晴", "event": "苏晴也是隙间人", "suspense": "谁唤醒了苏晴"},
+    "6": {"title": "十年悬案", "characters": "林默、小张", "event": "汇总十年类似案件 47 起", "suspense": "为何都是零点案发"},
+    "7": {"title": "时盗", "characters": "林默、苏晴", "event": "首次听到时盗组织名字", "suspense": "时盗是什么组织"},
+    "8": {"title": "追踪", "characters": "林默、苏晴", "event": "隙间内追踪嫌疑人", "suspense": "嫌疑人是谁"},
+    "9": {"title": "第一次交锋", "characters": "林默、苏晴、赵坤", "event": "与时盗成员正面遭遇", "suspense": "赵坤的身份"},
+    "10": {"title": "入局", "characters": "林默、苏晴", "event": "林默正式卷入隙间世界", "suspense": "林默能查出真相吗"}
+  }
+}
