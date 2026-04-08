@@ -2,13 +2,13 @@
   "novel_title": "两界之间",
   "novel_title_original": "每天偷一小时",
   "total_chapters": 300,
-  "completed_chapters": 7,
-  "current_chapter": 8,
+  "completed_chapters": 8,
+  "current_chapter": 9,
   "last_updated": "2026-04-08",
   "auto_write_enabled": true,
   "cron_job_id": "3ad0d545-07ee-4ba0-8912-486527012e17",
   "cron_schedule": "*/8 * * * *",
-  "last_git_push": "2026-04-08 19:30:00",
+  "last_git_push": "2026-04-08 19:45:00",
   "chapters_status": {
     "1": {
       "title": "不可能的犯罪",
@@ -65,16 +65,24 @@
       "file": "第七章_时盗.md",
       "volume": "第一卷：觉醒",
       "completed_at": "2026-04-08"
+    },
+    "8": {
+      "title": "追踪",
+      "status": "completed",
+      "word_count": 5500,
+      "file": "第八章_追踪.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
     }
   },
   "next_chapter_info": {
-    "chapter": 8,
-    "title": "追踪",
+    "chapter": 9,
+    "title": "第一次交锋",
     "volume": "第一卷：觉醒",
     "volume_range": "第 1-50 章",
-    "main_characters": ["林默", "苏晴"],
-    "core_event": "隙间内追踪嫌疑人",
-    "suspense": "嫌疑人是谁",
+    "main_characters": ["林默", "苏晴", "赵坤"],
+    "core_event": "与时盗成员正面遭遇",
+    "suspense": "赵坤的身份",
     "writing_points": {
       "scene_description": 1000,
       "dialogue": 1500,
