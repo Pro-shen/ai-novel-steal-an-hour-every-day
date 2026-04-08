@@ -2,8 +2,8 @@
   "novel_title": "两界之间",
   "novel_title_original": "每天偷一小时",
   "total_chapters": 300,
-  "completed_chapters": 9,
-  "current_chapter": 10,
+  "completed_chapters": 10,
+  "current_chapter": 11,
   "last_updated": "2026-04-08",
   "auto_write_enabled": true,
   "cron_job_id": "3ad0d545-07ee-4ba0-8912-486527012e17",
@@ -79,6 +79,14 @@
       "status": "completed",
       "word_count": 7000,
       "file": "第九章_第一次交锋.md",
+      "volume": "第一卷：觉醒",
+      "completed_at": "2026-04-08"
+    },
+    "10": {
+      "title": "入局",
+      "status": "completed",
+      "word_count": 5650,
+      "file": "第十章_入局.md",
       "volume": "第一卷：觉醒",
       "completed_at": "2026-04-08"
     }
